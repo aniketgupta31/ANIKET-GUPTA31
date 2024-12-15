@@ -11,11 +11,11 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket-gupta31&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=aniket-gupta31&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-gupta31&theme=redical&area=true&hide_border=false&hide_title=false&radius=16" height="120" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=aniket-gupta31&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=aniket-gupta31&margin-w=20&margin-h=8&column=8&row=1&theme=monokai" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketgupta31&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=aniketgupta31&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketgupta31&theme=redical&area=true&hide_border=false&hide_title=false&radius=16" height="120" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketgupta31&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=aniketgupta31&margin-w=20&margin-h=8&column=8&row=1&theme=monokai" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -63,7 +63,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="linkedin.com/in/aniket-gupta-4897a12b3" target="_blank">
+  <a href="linkedin.com/in/aniketgupta-4897a12b3" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="66" height="45" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="66" height="45" alt="instagram logo"  />
@@ -74,6 +74,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aniket-gupta31/aniket-gupta31/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aniket-gupta31/aniketgupta31/output/snake.svg" alt="Snake animation" />
 
 ###
